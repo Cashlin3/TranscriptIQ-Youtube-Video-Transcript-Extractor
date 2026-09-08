@@ -57,12 +57,6 @@ streamlit run app.py
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 Made with 📺 curiosity + ❤️ by **Cashlin**
 
 

@@ -1,5 +1,3 @@
-"
-
 ## 🛠️ Tech Stack
 
 | Layer | Tools |

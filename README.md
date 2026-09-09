@@ -57,7 +57,6 @@ streamlit run app.py
 
 ---
 
-Made with 📺 curiosity + ❤️ by **Cashlin**
 
 
 
